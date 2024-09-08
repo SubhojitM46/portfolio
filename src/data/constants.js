@@ -9,7 +9,7 @@ export const Bio = {
     "A passionate MCA student with proficiency in C++, Java, Python, JavaScript, MySQL, and Data Structures & Algorithms (DSA). Skilled in full-stack web development using React, Express, Node.js, and MongoDB. Dedicated to creating impactful software development projects and eager to contribute to complex IT projects by providing innovative solutions.",
   github: "https://github.com/SubhojitM46",
   resume:
-    "https://drive.google.com/file/d/1M0pc6zqTe5ELM3HbIwxz_U4iWIj2eyXx/view",
+    "https://drive.google.com/file/d/1mTnFJY2NeUIXRlvqbD_CPaN3wfBlihCU/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/subhojit-mahato-4193a61bb/",
   // twitter: "https://twitter.com/RishavChanda",
   // insta: "https://www.instagram.com/rishav_chanda/",
