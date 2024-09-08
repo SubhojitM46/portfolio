@@ -283,8 +283,8 @@ export const projects = [
       "https://raw.githubusercontent.com/SubhojitM46/e-shop/main/Screenshot%20(235).png",
     tags: ["React JS", "Redux", "Fake API"],
     category: "android app",
-    github: "https://github.com/SubhojitM46/e-shop/blob/main/Screenshot%20(235).png?raw=true",
-    webapp: "https://github.com/SubhojitM46/e-shop",
+    github: "https://github.com/SubhojitM46/e-shop",
+    webapp: "https://myshop-app-xmj4.onrender.com/",
   },
   {
     id: 8,
