@@ -188,11 +188,34 @@ export const education = [
 
 export const projects = [
   {
+    id: 10,
+  title: "Study2Placement",
+  date: "June 2024 - July 2024",
+  description:
+    "The Study2Placement blog app is designed to offer students valuable resources, insights, and guidance for a smooth transition from academics to professional placements. It provides a platform for sharing articles, tutorials, and tips, helping users prepare for interviews, improve their skills, and stay current with industry trends. The app's frontend is built with React.js and Tailwind CSS for an interactive and responsive interface, while the backend is powered by Express and Node.js for server-side operations. MongoDB is used for scalable data storage, and JWT ensures secure user authentication. Admins can log in to create, manage, update, and delete blogs, while users can log in to view them.",
+    
+   
+  image:
+    "https://github.com/RutujaG11/Project_Images/blob/main/Study2Placement%20Image.png?raw=true",
+  tags: [
+    
+    "React Js",
+    "Tailwind CSS",
+    "MongoDb",
+    "Node Js",
+    "Express Js",
+    
+  ],
+  category: "web app",
+  github: "https://github.com/SubhojitM46/NotesHub_Frontend",
+  webapp: "https://noteshub-frontend-udae.onrender.com/",
+},
+{
     id: 9,
     title: "Notes Hub",
     date: "May 2024 - June 2024",
     description:
-      "NotesHub is a responsive MERN stack web app with Tailwind CSS, designed for efficient note management. It offers secure authentication, theme options, an intuitive interface, easy downloads, and robust admin features. ",
+      "NotesHub is a responsive MERN stack web app with Tailwind CSS, designed for users to download notes and materials for various courses with advance admin privilege’s.. It offers secure authentication, theme options, an intuitive interface, easy downloads, and robust admin features. ",
       
      
     image:
